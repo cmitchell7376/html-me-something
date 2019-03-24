@@ -1,20 +1,20 @@
-*{
-    margin: 0;
-    padding: 0;
+.qoute {
+    width: 500px;
+    margin-top: 200px;
+    margin-left: 455px;    
 }
 
-.video-background{
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    min-width: 100%;
-    min-height: 100%;
-    width: 100vh;
-    height: 100vh;
+.art-text {
+    width: 1000px;
+    margin-top: 450px;
+       
 }
 
-header{
-    background: rgba(0,0,100,0.5);
-    height: 100vh;
-}
+.background1 {
+    background-image: url("IMG_1907.jpg");
+    background-repeat: no-repeat;
+    background-size: 1520px 730px;
 
+article {
+    margin-top: 300px;
+}
