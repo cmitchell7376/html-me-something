@@ -1,14 +1,20 @@
-.qoute2 {
-    width: 1000px;
-    margin-top: 450px;
-       
+*{
+    margin: 0;
+    padding: 0;
 }
 
-.background1 {
-    background-image: url("IMG_1907.jpg");
-    background-repeat: no-repeat;
-    background-size: 1520px 730px;
-
-article {
-    margin-top: 300px;
+.video-background{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: 100vh;
+    height: 100vh;
 }
+
+header{
+    background: rgba(0,0,100,0.5);
+    height: 100vh;
+}
+
