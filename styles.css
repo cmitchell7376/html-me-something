@@ -2,14 +2,12 @@
     width: 1000px;   
 }
 
-.art-text {
-    width: 1000px;
-    margin-top: 650px;
-       
+.highschool-pic{
+    margin-top: 750px;
 }
 
 article {
-    margin-top: 300px;
+    margin-top: 500px;
 }
 
 #myVideo{
@@ -39,9 +37,11 @@ article {
     right: 0;
     bottom: 0;
     background-color: rgba(26, 26, 26, 0.75); 
-   
 }
 
-h2{
-    font-family: 'Courier New', Courier, monospace;
+#a{
+    background-color: aqua;
+    color: aqua;
+    width: 100px;
+    margin-top: 800;
 }
