@@ -1,20 +1,43 @@
 .qoute {
-    width: 500px;
-    margin-top: 200px;
-    margin-left: 455px;    
+    width: 1000px;   
 }
 
 .art-text {
     width: 1000px;
-    margin-top: 450px;
+    margin-top: 650px;
        
 }
 
-.background1 {
-    background-image: url("IMG_1907.jpg");
-    background-repeat: no-repeat;
-    background-size: 1520px 730px;
-
 article {
     margin-top: 300px;
+}
+
+#myVideo{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+}
+
+.content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 40px;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+}
+
+#over {
+    position: absolute;
+    width: 100%; 
+    height: 100%; 
+    top: 0; 
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(26, 26, 26, 0.75); 
+   
 }
