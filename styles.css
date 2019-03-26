@@ -4,10 +4,12 @@
 
 .highschool-pic{
     margin-top: 850px;
+    margin-left: 100px;
 }
 
-article {
-    margin-top: 500px;
+.article1 {
+    margin-top: -350px;
+    margin-left: 600px;
 }
 
 #myVideo{
@@ -46,4 +48,22 @@ article {
     height: 250px;
     margin-top: -300px;
     margin-left: -9px;
+}
+
+.highschool{
+    width: 600px;
+    font-size: 20px;
+}
+
+#mag{
+    margin: 0;
+}
+
+.headers{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+h5{
+    color: goldenrod
 }
