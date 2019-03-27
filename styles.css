@@ -50,7 +50,7 @@
     margin-left: -9px;
 }
 
-.highschool{
+.text{
     width: 600px;
     font-size: 20px;
 }
@@ -66,4 +66,28 @@
 
 h5{
     color: goldenrod
+}
+
+.college-pic{
+    margin-left: 800px;
+    margin-top: 350px;
+}
+
+.article2{
+    margin-top: -350px;
+    padding: 10px;
+}
+
+.article3{
+    margin-left: 600px;
+    margin-top: -350px;
+}
+
+.now-pic{
+    margin-top: 150px;
+    margin-left: 100px;
+}
+
+footer{
+    margin-top: 150px;
 }
